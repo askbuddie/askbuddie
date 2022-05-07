@@ -12,7 +12,7 @@
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "ui": "*"
+    "@askbuddie/ui": "*"
   },
   "devDependencies": {
     "@types/node": "17.0.31",
@@ -20,11 +20,11 @@
     "@types/react-dom": "18.0.3",
     "autoprefixer": "^10.4.7",
     "eslint": "8.15.0",
-    "eslint-config-custom": "*",
+    "@askbuddie/eslint-config": "*",
     "eslint-config-next": "12.1.6",
     "postcss": "^8.4.13",
     "tailwindcss": "^3.0.24",
-    "tsconfig": "*",
+    "@askbuddie/tsconfig": "*",
     "typescript": "4.6.4"
   }
 }

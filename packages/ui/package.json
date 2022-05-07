@@ -1,5 +1,5 @@
 {
-  "name": "ui",
+  "name": "@askbuddie/ui",
   "version": "0.0.0",
   "main": "./index.tsx",
   "types": "./index.tsx",
@@ -11,10 +11,10 @@
     "@types/react": "18.0.9",
     "@types/react-dom": "18.0.3",
     "eslint": "^7.32.0",
-    "eslint-config-custom": "*",
+    "@askbuddie/eslint-config": "*",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "tsconfig": "*",
+    "@askbuddie/tsconfig": "*",
     "typescript": "^4.5.2"
   }
 }
