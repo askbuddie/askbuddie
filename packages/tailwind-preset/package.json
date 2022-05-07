@@ -1,0 +1,15 @@
+{
+  "name": "@askbuddie/tailwind-preset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "viewer": "tailwind-config-viewer -o"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "devDependencies": {
+    "tailwind-config-viewer": "^1.6.3"
+  }
+}
