@@ -1,5 +1,5 @@
 {
-  "extends": "tsconfig/nextjs.json",
+  "extends": "@askbuddie/tsconfig/nextjs.json",
   "include": ["next-env.d.ts", "src/**/*", "**/*.tsx"],
   "exclude": ["node_modules"]
 }
